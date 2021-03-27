@@ -1,0 +1,1 @@
+# DeviceCurdAngular.Net
